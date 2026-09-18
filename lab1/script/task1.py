@@ -14,6 +14,13 @@ class SumClass:
     with open(outputPath, 'w') as outputFile:
       outputFile.write(str(self.add(string)))
 
+  def addSquaredFromFile(self, inputPath: str, outputPath: str) -> None:
+    with open(inputPath) as inputFile:
+      string = inputFile.readline()
+      
+    with open(outputPath, 'w') as outputFile:
+      outputFile.write(str(self.addSquared(string)))
+
   def _parseInts(self, string: str) -> list[int]:
     numbers = list(map(lambda x: int(x), string.split(' ')))
 
@@ -33,4 +40,4 @@ class SumClass:
 
 calculator = SumClass()
 
-print(calculator.addFromFile("./input.txt", "./output.txt"))
+print(calculator.addSquaredFromFile("./input.txt", "./output.txt"))
