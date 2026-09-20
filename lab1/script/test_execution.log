@@ -1,0 +1,5388 @@
+============================================================
+TIME: 2026-09-20 20:48:17.855302
+TEST: add
+STATUS: PASSED
+INPUT: ('-710858193 241920512',)
+EXPECTED: -468937681
+ACTUAL: -468937681
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.855481
+TEST: add
+STATUS: PASSED
+INPUT: ('188551403 28022881',)
+EXPECTED: 216574284
+ACTUAL: 216574284
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.855592
+TEST: add
+STATUS: PASSED
+INPUT: ('241101465 128508767',)
+EXPECTED: 369610232
+ACTUAL: 369610232
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.855997
+TEST: add
+STATUS: PASSED
+INPUT: ('-133316989 -637959928',)
+EXPECTED: -771276917
+ACTUAL: -771276917
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.856098
+TEST: add
+STATUS: PASSED
+INPUT: ('-16463141 -991391991',)
+EXPECTED: -1007855132
+ACTUAL: -1007855132
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.856164
+TEST: add
+STATUS: PASSED
+INPUT: ('-65513111 650157704',)
+EXPECTED: 584644593
+ACTUAL: 584644593
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.856452
+TEST: add
+STATUS: PASSED
+INPUT: ('-501809129 195731107',)
+EXPECTED: -306078022
+ACTUAL: -306078022
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.856550
+TEST: add
+STATUS: PASSED
+INPUT: ('-77182957 -989226231',)
+EXPECTED: -1066409188
+ACTUAL: -1066409188
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.856646
+TEST: add
+STATUS: PASSED
+INPUT: ('188554344 861505862',)
+EXPECTED: 1050060206
+ACTUAL: 1050060206
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.856740
+TEST: add
+STATUS: PASSED
+INPUT: ('267591663 269985016',)
+EXPECTED: 537576679
+ACTUAL: 537576679
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.856811
+TEST: add
+STATUS: PASSED
+INPUT: ('325714506 713562864',)
+EXPECTED: 1039277370
+ACTUAL: 1039277370
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.856882
+TEST: add
+STATUS: PASSED
+INPUT: ('-141042542 -831607907',)
+EXPECTED: -972650449
+ACTUAL: -972650449
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.856952
+TEST: add
+STATUS: PASSED
+INPUT: ('-157315865 -261460511',)
+EXPECTED: -418776376
+ACTUAL: -418776376
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857013
+TEST: add
+STATUS: PASSED
+INPUT: ('982849395 638264080',)
+EXPECTED: 1621113475
+ACTUAL: 1621113475
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857129
+TEST: add
+STATUS: PASSED
+INPUT: ('919703839 -495981649',)
+EXPECTED: 423722190
+ACTUAL: 423722190
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857204
+TEST: add
+STATUS: PASSED
+INPUT: ('236679874 951279242',)
+EXPECTED: 1187959116
+ACTUAL: 1187959116
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857261
+TEST: add
+STATUS: PASSED
+INPUT: ('-45187001 12884228',)
+EXPECTED: -32302773
+ACTUAL: -32302773
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857325
+TEST: add
+STATUS: PASSED
+INPUT: ('879547932 90168251',)
+EXPECTED: 969716183
+ACTUAL: 969716183
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857389
+TEST: add
+STATUS: PASSED
+INPUT: ('555687378 -60987329',)
+EXPECTED: 494700049
+ACTUAL: 494700049
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857445
+TEST: add
+STATUS: PASSED
+INPUT: ('-358839203 -794641497',)
+EXPECTED: -1153480700
+ACTUAL: -1153480700
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857498
+TEST: add
+STATUS: PASSED
+INPUT: ('-537948327 -854561052',)
+EXPECTED: -1392509379
+ACTUAL: -1392509379
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857562
+TEST: add
+STATUS: PASSED
+INPUT: ('-566838465 -587766516',)
+EXPECTED: -1154604981
+ACTUAL: -1154604981
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857625
+TEST: add
+STATUS: PASSED
+INPUT: ('-98063672 -583251002',)
+EXPECTED: -681314674
+ACTUAL: -681314674
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857733
+TEST: add
+STATUS: PASSED
+INPUT: ('752159851 310722597',)
+EXPECTED: 1062882448
+ACTUAL: 1062882448
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857879
+TEST: add
+STATUS: PASSED
+INPUT: ('-291558959 627010984',)
+EXPECTED: 335452025
+ACTUAL: 335452025
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.857967
+TEST: add
+STATUS: PASSED
+INPUT: ('939940953 -157824290',)
+EXPECTED: 782116663
+ACTUAL: 782116663
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.858031
+TEST: add
+STATUS: PASSED
+INPUT: ('-231385325 181007203',)
+EXPECTED: -50378122
+ACTUAL: -50378122
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.858279
+TEST: add
+STATUS: PASSED
+INPUT: ('486068617 483587688',)
+EXPECTED: 969656305
+ACTUAL: 969656305
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.858405
+TEST: add
+STATUS: PASSED
+INPUT: ('675527114 -191311870',)
+EXPECTED: 484215244
+ACTUAL: 484215244
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.858572
+TEST: add
+STATUS: PASSED
+INPUT: ('-670405332 610538358',)
+EXPECTED: -59866974
+ACTUAL: -59866974
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.858677
+TEST: add
+STATUS: PASSED
+INPUT: ('-84683629 -951752376',)
+EXPECTED: -1036436005
+ACTUAL: -1036436005
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.858746
+TEST: add
+STATUS: PASSED
+INPUT: ('-806826320 -64419715',)
+EXPECTED: -871246035
+ACTUAL: -871246035
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.858806
+TEST: add
+STATUS: PASSED
+INPUT: ('346629023 -957517355',)
+EXPECTED: -610888332
+ACTUAL: -610888332
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.858863
+TEST: add
+STATUS: PASSED
+INPUT: ('765446510 -253715634',)
+EXPECTED: 511730876
+ACTUAL: 511730876
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.858922
+TEST: add
+STATUS: PASSED
+INPUT: ('867911821 -700300811',)
+EXPECTED: 167611010
+ACTUAL: 167611010
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.858982
+TEST: add
+STATUS: PASSED
+INPUT: ('483351168 -90667071',)
+EXPECTED: 392684097
+ACTUAL: 392684097
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859037
+TEST: add
+STATUS: PASSED
+INPUT: ('940796289 -530020645',)
+EXPECTED: 410775644
+ACTUAL: 410775644
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859091
+TEST: add
+STATUS: PASSED
+INPUT: ('-660561117 -754241599',)
+EXPECTED: -1414802716
+ACTUAL: -1414802716
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859148
+TEST: add
+STATUS: PASSED
+INPUT: ('974995239 -936445727',)
+EXPECTED: 38549512
+ACTUAL: 38549512
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859207
+TEST: add
+STATUS: PASSED
+INPUT: ('-1569523 -211616691',)
+EXPECTED: -213186214
+ACTUAL: -213186214
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859473
+TEST: add
+STATUS: PASSED
+INPUT: ('-41121623 -958901808',)
+EXPECTED: -1000023431
+ACTUAL: -1000023431
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859556
+TEST: add
+STATUS: PASSED
+INPUT: ('922917342 -313071060',)
+EXPECTED: 609846282
+ACTUAL: 609846282
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859635
+TEST: add
+STATUS: PASSED
+INPUT: ('-827509454 -385438619',)
+EXPECTED: -1212948073
+ACTUAL: -1212948073
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859693
+TEST: add
+STATUS: PASSED
+INPUT: ('-936981054 -257069906',)
+EXPECTED: -1194050960
+ACTUAL: -1194050960
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859743
+TEST: add
+STATUS: PASSED
+INPUT: ('-723475588 21416700',)
+EXPECTED: -702058888
+ACTUAL: -702058888
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859797
+TEST: add
+STATUS: PASSED
+INPUT: ('-709215473 546451276',)
+EXPECTED: -162764197
+ACTUAL: -162764197
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859865
+TEST: add
+STATUS: PASSED
+INPUT: ('35703413 452746188',)
+EXPECTED: 488449601
+ACTUAL: 488449601
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.859948
+TEST: add
+STATUS: PASSED
+INPUT: ('460330519 281224478',)
+EXPECTED: 741554997
+ACTUAL: 741554997
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.860010
+TEST: add
+STATUS: PASSED
+INPUT: ('-384305670 -577106376',)
+EXPECTED: -961412046
+ACTUAL: -961412046
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.860075
+TEST: add
+STATUS: PASSED
+INPUT: ('-984171541 -732793527',)
+EXPECTED: -1716965068
+ACTUAL: -1716965068
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.883707
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B380>
+EXPECTED: -1143337029
+ACTUAL: -1143337029
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.901088
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B540>
+EXPECTED: -1416782191
+ACTUAL: -1416782191
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.923807
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B300>
+EXPECTED: 447296424
+ACTUAL: 447296424
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.949079
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B240>
+EXPECTED: 327778252
+ACTUAL: 327778252
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.963870
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B100>
+EXPECTED: 1639751794
+ACTUAL: 1639751794
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.975424
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: -781643499
+ACTUAL: -781643499
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:17.987620
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: 919551998
+ACTUAL: 919551998
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.002007
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: -15079855
+ACTUAL: -15079855
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.014450
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -951909385
+ACTUAL: -951909385
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.028001
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 1024063899
+ACTUAL: 1024063899
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.042073
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -42885293
+ACTUAL: -42885293
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.054586
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 130049486
+ACTUAL: 130049486
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.067876
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: 547749640
+ACTUAL: 547749640
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.086678
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 1330180999
+ACTUAL: 1330180999
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.100062
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -341450125
+ACTUAL: -341450125
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.111596
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: -1104436134
+ACTUAL: -1104436134
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.127096
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: 1447850681
+ACTUAL: 1447850681
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.143853
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 320141154
+ACTUAL: 320141154
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.157429
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -1137026751
+ACTUAL: -1137026751
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.167060
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 221464555
+ACTUAL: 221464555
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.179658
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -287693620
+ACTUAL: -287693620
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.196963
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 886443386
+ACTUAL: 886443386
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.217527
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: 444444236
+ACTUAL: 444444236
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.235431
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: -198664797
+ACTUAL: -198664797
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.253468
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -1761731412
+ACTUAL: -1761731412
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.267051
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 1177257131
+ACTUAL: 1177257131
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.277987
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: 955338602
+ACTUAL: 955338602
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.289058
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 751540215
+ACTUAL: 751540215
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.300415
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -85566076
+ACTUAL: -85566076
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.319205
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: -567617231
+ACTUAL: -567617231
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.329901
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: 97615640
+ACTUAL: 97615640
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.344066
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 632903269
+ACTUAL: 632903269
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.357001
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -633811850
+ACTUAL: -633811850
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.369151
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: -514418743
+ACTUAL: -514418743
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.386673
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -719271096
+ACTUAL: -719271096
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.406501
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: -103474237
+ACTUAL: -103474237
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.428756
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -43454550
+ACTUAL: -43454550
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.451339
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: -1184297000
+ACTUAL: -1184297000
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.467559
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: 1183764240
+ACTUAL: 1183764240
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.491118
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: -112332322
+ACTUAL: -112332322
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.503492
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -662427092
+ACTUAL: -662427092
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.518496
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 806661247
+ACTUAL: 806661247
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.530192
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: 124021276
+ACTUAL: 124021276
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.541495
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 837245312
+ACTUAL: 837245312
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.553520
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -716163116
+ACTUAL: -716163116
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.562990
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 564042009
+ACTUAL: 564042009
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.577779
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -729227638
+ACTUAL: -729227638
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.592443
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: -1532422269
+ACTUAL: -1532422269
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.610488
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B040>
+EXPECTED: -17250150
+ACTUAL: -17250150
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.624384
+TEST: write_add
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 884777165
+ACTUAL: 884777165
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.625514
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('470712201 -881164127',)
+EXPECTED: 776450219182384330
+ACTUAL: 776450219182384330
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.625632
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('513127040 -591388962',)
+EXPECTED: 349740904888564484
+ACTUAL: 349740904888564484
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.625760
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('311449495 711786911',)
+EXPECTED: 506640606982371416
+ACTUAL: 506640606982371416
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.625936
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-14717447 784589153',)
+EXPECTED: 615580138990539962
+ACTUAL: 615580138990539962
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626080
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('388880140 730379162',)
+EXPECTED: 533453720672702384
+ACTUAL: 533453720672702384
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626164
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('62888588 5334794',)
+EXPECTED: 28460089911024
+ACTUAL: 28460089911024
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626225
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('334939705 433031761',)
+EXPECTED: 187516506369700826
+ACTUAL: 187516506369700826
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626305
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('346873543 679893729',)
+EXPECTED: 462255483080398984
+ACTUAL: 462255483080398984
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626363
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('674507056 840206291',)
+EXPECTED: 705946612110483737
+ACTUAL: 705946612110483737
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626417
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('97600116 -835453272',)
+EXPECTED: 697982169793106100
+ACTUAL: 697982169793106100
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626518
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-132512189 229694744',)
+EXPECTED: 52759675288713347
+ACTUAL: 52759675288713347
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626581
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('699615065 936258473',)
+EXPECTED: 876579928963906794
+ACTUAL: 876579928963906794
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626643
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('138253396 923162291',)
+EXPECTED: 852228615662622077
+ACTUAL: 852228615662622077
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626694
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('742579134 -489337092',)
+EXPECTED: 239450790349595598
+ACTUAL: 239450790349595598
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626823
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-982829768 577942365',)
+EXPECTED: 334017376278963457
+ACTUAL: 334017376278963457
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626897
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-578446233 532115622',)
+EXPECTED: 283147034598000651
+ACTUAL: 283147034598000651
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.626957
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-294851880 935411613',)
+EXPECTED: 874994885440409889
+ACTUAL: 874994885440409889
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627019
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('643889825 344584299',)
+EXPECTED: 118738339761211226
+ACTUAL: 118738339761211226
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627090
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-836355229 258646622',)
+EXPECTED: 66898074235655655
+ACTUAL: 66898074235655655
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627153
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('435713162 -413046737',)
+EXPECTED: 170607607382060331
+ACTUAL: 170607607382060331
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627204
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('993545012 936429387',)
+EXPECTED: 876899997830740781
+ACTUAL: 876899997830740781
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627265
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('693494039 -602269438',)
+EXPECTED: 362728476642329883
+ACTUAL: 362728476642329883
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627345
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-601871710 -396718046',)
+EXPECTED: 157385207420186406
+ACTUAL: 157385207420186406
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627497
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-530027709 565942744',)
+EXPECTED: 320291188956221827
+ACTUAL: 320291188956221827
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627583
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('196972146 369267071',)
+EXPECTED: 136358169921891187
+ACTUAL: 136358169921891187
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627676
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('478655067 693379831',)
+EXPECTED: 480775590516243628
+ACTUAL: 480775590516243628
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627774
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('306110418 479686480',)
+EXPECTED: 230099119400900818
+ACTUAL: 230099119400900818
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627882
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('446693832 931261649',)
+EXPECTED: 867248259344893033
+ACTUAL: 867248259344893033
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.627997
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('833212581 683848912',)
+EXPECTED: 467649335276796325
+ACTUAL: 467649335276796325
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628067
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('891442922 -182446217',)
+EXPECTED: 33286622989054011
+ACTUAL: 33286622989054011
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628126
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-5717536 319604124',)
+EXPECTED: 102146796072089840
+ACTUAL: 102146796072089840
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628181
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-216895013 -594324121',)
+EXPECTED: 353221160585527628
+ACTUAL: 353221160585527628
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628236
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('85043247 -816449289',)
+EXPECTED: 666589441593648768
+ACTUAL: 666589441593648768
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628289
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-613958796 -954284219',)
+EXPECTED: 910658370018481165
+ACTUAL: 910658370018481165
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628342
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('945887547 -881152527',)
+EXPECTED: 776429776784373276
+ACTUAL: 776429776784373276
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628394
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('5290018 604964338',)
+EXPECTED: 365981850257068262
+ACTUAL: 365981850257068262
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628446
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('368165143 -614604380',)
+EXPECTED: 377738544283349543
+ACTUAL: 377738544283349543
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628517
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-86245525 976157640',)
+EXPECTED: 952883738044124075
+ACTUAL: 952883738044124075
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628628
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('176611492 -54270142',)
+EXPECTED: 2945248489311656
+ACTUAL: 2945248489311656
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628799
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('660101240 -95362733',)
+EXPECTED: 9094051505330529
+ACTUAL: 9094051505330529
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.628928
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('910684888 430575636',)
+EXPECTED: 185395379227489384
+ACTUAL: 185395379227489384
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.629045
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('712396844 -336636658',)
+EXPECTED: 113324240221805808
+ACTUAL: 113324240221805808
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.629116
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-863626534 -460459469',)
+EXPECTED: 212022921728135427
+ACTUAL: 212022921728135427
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.629179
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('293685896 -149056458',)
+EXPECTED: 22217827965191660
+ACTUAL: 22217827965191660
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.629229
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-755201054 309271096',)
+EXPECTED: 95648610065840162
+ACTUAL: 95648610065840162
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.629286
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('866355272 2663629',)
+EXPECTED: 7095785804913
+ACTUAL: 7095785804913
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.629337
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-394009092 -328645229',)
+EXPECTED: 108007686150453349
+ACTUAL: 108007686150453349
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.629389
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('677166632 -730221567',)
+EXPECTED: 533223537589102121
+ACTUAL: 533223537589102121
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.629496
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-925467837 572499644',)
+EXPECTED: 327755841454658899
+ACTUAL: 327755841454658899
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.629559
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('180403856 886021891',)
+EXPECTED: 785034791511619737
+ACTUAL: 785034791511619737
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.649567
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AD00>
+EXPECTED: 64088955844723626
+ACTUAL: 64088955844723626
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.667129
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AB00>
+EXPECTED: 145420621649431
+ACTUAL: 145420621649431
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.687646
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B1C0>
+EXPECTED: 270136298337271127
+ACTUAL: 270136298337271127
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.712525
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A480>
+EXPECTED: 749357436083772045
+ACTUAL: 749357436083772045
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.733837
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A680>
+EXPECTED: 326256630659570905
+ACTUAL: 326256630659570905
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.755930
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A3C0>
+EXPECTED: 5244014154960583
+ACTUAL: 5244014154960583
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.783731
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A1C0>
+EXPECTED: 633993845652930174
+ACTUAL: 633993845652930174
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.809435
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 11739898814588873
+ACTUAL: 11739898814588873
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.826945
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A240>
+EXPECTED: 277662905451276147
+ACTUAL: 277662905451276147
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.843976
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 226890229931646690
+ACTUAL: 226890229931646690
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.857546
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7AA80>
+EXPECTED: 785020670736140787
+ACTUAL: 785020670736140787
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.867897
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 236069105906533827
+ACTUAL: 236069105906533827
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.880560
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79F40>
+EXPECTED: 127366476614223260
+ACTUAL: 127366476614223260
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.892456
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 127052400770668904
+ACTUAL: 127052400770668904
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.908623
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79E40>
+EXPECTED: 60879442484597633
+ACTUAL: 60879442484597633
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.923751
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 43200010581115266
+ACTUAL: 43200010581115266
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.940659
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79F00>
+EXPECTED: 312398604793266311
+ACTUAL: 312398604793266311
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.956706
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 806705896602584315
+ACTUAL: 806705896602584315
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:18.974999
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79D80>
+EXPECTED: 24305750663362978
+ACTUAL: 24305750663362978
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.000933
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 139214375393117120
+ACTUAL: 139214375393117120
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.027100
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79D40>
+EXPECTED: 92178558461267537
+ACTUAL: 92178558461267537
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.055146
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 570650767918823166
+ACTUAL: 570650767918823166
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.075409
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79CC0>
+EXPECTED: 742427987543229184
+ACTUAL: 742427987543229184
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.093936
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 98832275305333731
+ACTUAL: 98832275305333731
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.112507
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79AC0>
+EXPECTED: 643181244804472694
+ACTUAL: 643181244804472694
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.124361
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 654725500233757937
+ACTUAL: 654725500233757937
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.137247
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79980>
+EXPECTED: 99506123758176792
+ACTUAL: 99506123758176792
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.151562
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 20503820406451
+ACTUAL: 20503820406451
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.171993
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79C40>
+EXPECTED: 11671913759141184
+ACTUAL: 11671913759141184
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.184576
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 434771474927517190
+ACTUAL: 434771474927517190
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.201505
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79A00>
+EXPECTED: 249440910644930746
+ACTUAL: 249440910644930746
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.216844
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 840462843167742366
+ACTUAL: 840462843167742366
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.229459
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79B40>
+EXPECTED: 853457112786222484
+ACTUAL: 853457112786222484
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.240177
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 354224166376902073
+ACTUAL: 354224166376902073
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.257563
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79C00>
+EXPECTED: 15468275143247662
+ACTUAL: 15468275143247662
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.281077
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 791271287689935655
+ACTUAL: 791271287689935655
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.292936
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79940>
+EXPECTED: 746725801709081300
+ACTUAL: 746725801709081300
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.306540
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 254497975576225859
+ACTUAL: 254497975576225859
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.319696
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79840>
+EXPECTED: 366262826181406266
+ACTUAL: 366262826181406266
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.340531
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 374661148397220446
+ACTUAL: 374661148397220446
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.352812
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F79740>
+EXPECTED: 80288540325649190
+ACTUAL: 80288540325649190
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.364428
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 451263503162520129
+ACTUAL: 451263503162520129
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.386725
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 421039297377809642
+ACTUAL: 421039297377809642
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.401535
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 771989567751592594
+ACTUAL: 771989567751592594
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.417393
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 637181863469698667
+ACTUAL: 637181863469698667
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.431388
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 130032159536473484
+ACTUAL: 130032159536473484
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.447391
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 390729083956040501
+ACTUAL: 390729083956040501
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.464105
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 49104961841149790
+ACTUAL: 49104961841149790
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.481261
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A940>
+EXPECTED: 524464998897444790
+ACTUAL: 524464998897444790
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.496050
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 87108736598620267
+ACTUAL: 87108736598620267
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.497580
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B700>
+EXPECTED: 1597
+ACTUAL: 1597
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.504318
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7ABC0>
+EXPECTED: 28657
+ACTUAL: 28657
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.504886
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7BF80>
+EXPECTED: 55
+ACTUAL: 55
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.511007
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B080>
+EXPECTED: 1346269
+ACTUAL: 1346269
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.511997
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7ACC0>
+EXPECTED: 17711
+ACTUAL: 17711
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.522699
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B080>
+EXPECTED: 39088169
+ACTUAL: 39088169
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.524587
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7ACC0>
+EXPECTED: 2178309
+ACTUAL: 2178309
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.526112
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B080>
+EXPECTED: 28657
+ACTUAL: 28657
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.526618
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7ACC0>
+EXPECTED: 2
+ACTUAL: 2
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.528665
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B080>
+EXPECTED: 17711
+ACTUAL: 17711
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.538181
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7ACC0>
+EXPECTED: 9227465
+ACTUAL: 9227465
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.538603
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B080>
+EXPECTED: 144
+ACTUAL: 144
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.540017
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7ACC0>
+EXPECTED: 10946
+ACTUAL: 10946
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.540983
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B080>
+EXPECTED: 832040
+ACTUAL: 832040
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.541621
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7ACC0>
+EXPECTED: 55
+ACTUAL: 55
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.542102
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B080>
+EXPECTED: 2584
+ACTUAL: 2584
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.548628
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7ACC0>
+EXPECTED: 75025
+ACTUAL: 75025
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.549050
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B080>
+EXPECTED: 610
+ACTUAL: 610
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.550184
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7ACC0>
+EXPECTED: 165580141
+ACTUAL: 165580141
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.556012
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7B080>
+EXPECTED: 63245986
+ACTUAL: 63245986
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.557606
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A280>
+EXPECTED: 3
+ACTUAL: 3
+EXECUTION TIME: 0.000348 s
+TIME LIMIT: True
+MEMORY: 137.36 KB
+MEMORY LIMIT: True
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.558141
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A280>
+EXPECTED: 4
+ACTUAL: 4
+EXECUTION TIME: 0.000272 s
+TIME LIMIT: True
+MEMORY: 137.33 KB
+MEMORY LIMIT: True
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.558605
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A200>
+EXPECTED: 1
+ACTUAL: 1
+EXECUTION TIME: 0.000233 s
+TIME LIMIT: True
+MEMORY: 137.33 KB
+MEMORY LIMIT: True
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.559020
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F78FC0>
+EXPECTED: 5
+ACTUAL: 5
+EXECUTION TIME: 0.000215 s
+TIME LIMIT: True
+MEMORY: 137.33 KB
+MEMORY LIMIT: True
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.559414
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: <map object at 0x0000028325F7A140>
+EXPECTED: 5
+ACTUAL: 5
+EXECUTION TIME: 0.000204 s
+TIME LIMIT: True
+MEMORY: 137.33 KB
+MEMORY LIMIT: True
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.560444
+TEST: add
+STATUS: PASSED
+INPUT: ('-1000000000 -1000000000',)
+EXPECTED: -2000000000
+ACTUAL: -2000000000
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.561327
+TEST: add
+STATUS: PASSED
+INPUT: ('1000000000 1000000000',)
+EXPECTED: 2000000000
+ACTUAL: 2000000000
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.562185
+TEST: add
+STATUS: PASSED
+INPUT: ('-1000000000 1000000000',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.563397
+TEST: add
+STATUS: PASSED
+INPUT: ('0 0',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.564302
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-1000000000 -1000000000',)
+EXPECTED: 999999999000000000
+ACTUAL: 999999999000000000
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.565711
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('1000000000 1000000000',)
+EXPECTED: 1000000001000000000
+ACTUAL: 1000000001000000000
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.567130
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('0 0',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.568507
+TEST: fibonacci
+STATUS: PASSED
+INPUT: ('0',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.569848
+TEST: fibonacci
+STATUS: PASSED
+INPUT: ('1',)
+EXPECTED: 1
+ACTUAL: 1
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.571966
+TEST: fibonacci
+STATUS: PASSED
+INPUT: ('2',)
+EXPECTED: 1
+ACTUAL: 1
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.575444
+TEST: fibonacci
+STATUS: PASSED
+INPUT: ('45',)
+EXPECTED: 1134903170
+ACTUAL: 1134903170
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.576621
+TEST: find_last_digit
+STATUS: PASSED
+INPUT: ('0',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.577960
+TEST: find_last_digit
+STATUS: PASSED
+INPUT: ('1',)
+EXPECTED: 1
+ACTUAL: 1
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.579723
+TEST: find_last_digit
+STATUS: PASSED
+INPUT: ('45',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.582546
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x000002832604EA40>
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.585809
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x000002832604FFC0>
+EXPECTED: 1
+ACTUAL: 1
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.604647
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: <map object at 0x000002832604E8C0>
+EXPECTED: 1134903170
+ACTUAL: 1134903170
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.606693
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: <map object at 0x000002832604FE40>
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:48:19.608370
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: <map object at 0x000002832604D300>
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.441070
+TEST: add
+STATUS: PASSED
+INPUT: ('312146839 651732005',)
+EXPECTED: 963878844
+ACTUAL: 963878844
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.441340
+TEST: add
+STATUS: PASSED
+INPUT: ('-545733102 -205696271',)
+EXPECTED: -751429373
+ACTUAL: -751429373
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.441475
+TEST: add
+STATUS: PASSED
+INPUT: ('252932399 924398291',)
+EXPECTED: 1177330690
+ACTUAL: 1177330690
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.441557
+TEST: add
+STATUS: PASSED
+INPUT: ('168055431 573392577',)
+EXPECTED: 741448008
+ACTUAL: 741448008
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.441654
+TEST: add
+STATUS: PASSED
+INPUT: ('-767908052 -527522263',)
+EXPECTED: -1295430315
+ACTUAL: -1295430315
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.441836
+TEST: add
+STATUS: PASSED
+INPUT: ('-565983917 37068786',)
+EXPECTED: -528915131
+ACTUAL: -528915131
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.441938
+TEST: add
+STATUS: PASSED
+INPUT: ('741321278 60517996',)
+EXPECTED: 801839274
+ACTUAL: 801839274
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442006
+TEST: add
+STATUS: PASSED
+INPUT: ('-387310346 -104784812',)
+EXPECTED: -492095158
+ACTUAL: -492095158
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442071
+TEST: add
+STATUS: PASSED
+INPUT: ('863716694 -619244236',)
+EXPECTED: 244472458
+ACTUAL: 244472458
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442126
+TEST: add
+STATUS: PASSED
+INPUT: ('-103220342 487114222',)
+EXPECTED: 383893880
+ACTUAL: 383893880
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442177
+TEST: add
+STATUS: PASSED
+INPUT: ('549740487 782174450',)
+EXPECTED: 1331914937
+ACTUAL: 1331914937
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442232
+TEST: add
+STATUS: PASSED
+INPUT: ('-951615696 -226412999',)
+EXPECTED: -1178028695
+ACTUAL: -1178028695
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442286
+TEST: add
+STATUS: PASSED
+INPUT: ('801657791 4971150',)
+EXPECTED: 806628941
+ACTUAL: 806628941
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442392
+TEST: add
+STATUS: PASSED
+INPUT: ('145928 -393039046',)
+EXPECTED: -392893118
+ACTUAL: -392893118
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442464
+TEST: add
+STATUS: PASSED
+INPUT: ('677115573 774541316',)
+EXPECTED: 1451656889
+ACTUAL: 1451656889
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442535
+TEST: add
+STATUS: PASSED
+INPUT: ('-681420189 740220635',)
+EXPECTED: 58800446
+ACTUAL: 58800446
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442596
+TEST: add
+STATUS: PASSED
+INPUT: ('21820984 54843555',)
+EXPECTED: 76664539
+ACTUAL: 76664539
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442674
+TEST: add
+STATUS: PASSED
+INPUT: ('-236871074 586943051',)
+EXPECTED: 350071977
+ACTUAL: 350071977
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442730
+TEST: add
+STATUS: PASSED
+INPUT: ('504784037 43179595',)
+EXPECTED: 547963632
+ACTUAL: 547963632
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442792
+TEST: add
+STATUS: PASSED
+INPUT: ('285276588 -341408288',)
+EXPECTED: -56131700
+ACTUAL: -56131700
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.442907
+TEST: add
+STATUS: PASSED
+INPUT: ('889196963 750343548',)
+EXPECTED: 1639540511
+ACTUAL: 1639540511
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.443096
+TEST: add
+STATUS: PASSED
+INPUT: ('-158635770 914752378',)
+EXPECTED: 756116608
+ACTUAL: 756116608
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.443251
+TEST: add
+STATUS: PASSED
+INPUT: ('574091250 -111684330',)
+EXPECTED: 462406920
+ACTUAL: 462406920
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.443384
+TEST: add
+STATUS: PASSED
+INPUT: ('832255378 848276854',)
+EXPECTED: 1680532232
+ACTUAL: 1680532232
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.443521
+TEST: add
+STATUS: PASSED
+INPUT: ('-225218704 731997101',)
+EXPECTED: 506778397
+ACTUAL: 506778397
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.443614
+TEST: add
+STATUS: PASSED
+INPUT: ('987569778 596042801',)
+EXPECTED: 1583612579
+ACTUAL: 1583612579
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.443680
+TEST: add
+STATUS: PASSED
+INPUT: ('253648675 477249300',)
+EXPECTED: 730897975
+ACTUAL: 730897975
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.443736
+TEST: add
+STATUS: PASSED
+INPUT: ('42014256 -119776164',)
+EXPECTED: -77761908
+ACTUAL: -77761908
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.443828
+TEST: add
+STATUS: PASSED
+INPUT: ('691494407 -921141863',)
+EXPECTED: -229647456
+ACTUAL: -229647456
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.443894
+TEST: add
+STATUS: PASSED
+INPUT: ('-38909640 502833565',)
+EXPECTED: 463923925
+ACTUAL: 463923925
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.444062
+TEST: add
+STATUS: PASSED
+INPUT: ('882772292 869531124',)
+EXPECTED: 1752303416
+ACTUAL: 1752303416
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.444227
+TEST: add
+STATUS: PASSED
+INPUT: ('-829065625 766902328',)
+EXPECTED: -62163297
+ACTUAL: -62163297
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.444323
+TEST: add
+STATUS: PASSED
+INPUT: ('-231691002 -233511501',)
+EXPECTED: -465202503
+ACTUAL: -465202503
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.444402
+TEST: add
+STATUS: PASSED
+INPUT: ('-544118932 51588879',)
+EXPECTED: -492530053
+ACTUAL: -492530053
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.444472
+TEST: add
+STATUS: PASSED
+INPUT: ('313637704 809186633',)
+EXPECTED: 1122824337
+ACTUAL: 1122824337
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.444569
+TEST: add
+STATUS: PASSED
+INPUT: ('-966612500 784713669',)
+EXPECTED: -181898831
+ACTUAL: -181898831
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.444708
+TEST: add
+STATUS: PASSED
+INPUT: ('-321831749 384282301',)
+EXPECTED: 62450552
+ACTUAL: 62450552
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.444888
+TEST: add
+STATUS: PASSED
+INPUT: ('-223464467 -40171260',)
+EXPECTED: -263635727
+ACTUAL: -263635727
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.445014
+TEST: add
+STATUS: PASSED
+INPUT: ('-209908847 588534772',)
+EXPECTED: 378625925
+ACTUAL: 378625925
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.445108
+TEST: add
+STATUS: PASSED
+INPUT: ('-362654232 793641984',)
+EXPECTED: 430987752
+ACTUAL: 430987752
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.445174
+TEST: add
+STATUS: PASSED
+INPUT: ('275354675 -238584574',)
+EXPECTED: 36770101
+ACTUAL: 36770101
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.445287
+TEST: add
+STATUS: PASSED
+INPUT: ('518772866 -473470427',)
+EXPECTED: 45302439
+ACTUAL: 45302439
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.445400
+TEST: add
+STATUS: PASSED
+INPUT: ('-267802227 596391693',)
+EXPECTED: 328589466
+ACTUAL: 328589466
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.446885
+TEST: add
+STATUS: PASSED
+INPUT: ('472281785 -326112351',)
+EXPECTED: 146169434
+ACTUAL: 146169434
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.446974
+TEST: add
+STATUS: PASSED
+INPUT: ('168245102 -4536449',)
+EXPECTED: 163708653
+ACTUAL: 163708653
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.447038
+TEST: add
+STATUS: PASSED
+INPUT: ('-718055378 131352153',)
+EXPECTED: -586703225
+ACTUAL: -586703225
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.447094
+TEST: add
+STATUS: PASSED
+INPUT: ('304542340 -698874210',)
+EXPECTED: -394331870
+ACTUAL: -394331870
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.447147
+TEST: add
+STATUS: PASSED
+INPUT: ('909155727 -567155175',)
+EXPECTED: 342000552
+ACTUAL: 342000552
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.447230
+TEST: add
+STATUS: PASSED
+INPUT: ('-187494402 -931211784',)
+EXPECTED: -1118706186
+ACTUAL: -1118706186
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.447282
+TEST: add
+STATUS: PASSED
+INPUT: ('691779128 345010615',)
+EXPECTED: 1036789743
+ACTUAL: 1036789743
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.475783
+TEST: write_add
+STATUS: PASSED
+INPUT: [-892758432, 812741890]
+EXPECTED: -80016542
+ACTUAL: -80016542
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.502234
+TEST: write_add
+STATUS: PASSED
+INPUT: [-667445263, -856523501]
+EXPECTED: -1523968764
+ACTUAL: -1523968764
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.535673
+TEST: write_add
+STATUS: PASSED
+INPUT: [183474577, -470186899]
+EXPECTED: -286712322
+ACTUAL: -286712322
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.561111
+TEST: write_add
+STATUS: PASSED
+INPUT: [542622570, -589335656]
+EXPECTED: -46713086
+ACTUAL: -46713086
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.575602
+TEST: write_add
+STATUS: PASSED
+INPUT: [458997843, -861695015]
+EXPECTED: -402697172
+ACTUAL: -402697172
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.591436
+TEST: write_add
+STATUS: PASSED
+INPUT: [323143677, -374785295]
+EXPECTED: -51641618
+ACTUAL: -51641618
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.602278
+TEST: write_add
+STATUS: PASSED
+INPUT: [-203405971, 443807820]
+EXPECTED: 240401849
+ACTUAL: 240401849
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.620407
+TEST: write_add
+STATUS: PASSED
+INPUT: [648054723, 467514928]
+EXPECTED: 1115569651
+ACTUAL: 1115569651
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.638459
+TEST: write_add
+STATUS: PASSED
+INPUT: [-691409297, -814058552]
+EXPECTED: -1505467849
+ACTUAL: -1505467849
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.651706
+TEST: write_add
+STATUS: PASSED
+INPUT: [973069453, -782333201]
+EXPECTED: 190736252
+ACTUAL: 190736252
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.671561
+TEST: write_add
+STATUS: PASSED
+INPUT: [727027339, 236312992]
+EXPECTED: 963340331
+ACTUAL: 963340331
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.685052
+TEST: write_add
+STATUS: PASSED
+INPUT: [725017784, -257045514]
+EXPECTED: 467972270
+ACTUAL: 467972270
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.699410
+TEST: write_add
+STATUS: PASSED
+INPUT: [-53943922, 364142627]
+EXPECTED: 310198705
+ACTUAL: 310198705
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.711832
+TEST: write_add
+STATUS: PASSED
+INPUT: [-93574984, 220205127]
+EXPECTED: 126630143
+ACTUAL: 126630143
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.726400
+TEST: write_add
+STATUS: PASSED
+INPUT: [47110269, 7868740]
+EXPECTED: 54979009
+ACTUAL: 54979009
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.734901
+TEST: write_add
+STATUS: PASSED
+INPUT: [-913370746, -514586087]
+EXPECTED: -1427956833
+ACTUAL: -1427956833
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.748751
+TEST: write_add
+STATUS: PASSED
+INPUT: [883152353, -637326257]
+EXPECTED: 245826096
+ACTUAL: 245826096
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.762096
+TEST: write_add
+STATUS: PASSED
+INPUT: [636038190, 514449915]
+EXPECTED: 1150488105
+ACTUAL: 1150488105
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.781989
+TEST: write_add
+STATUS: PASSED
+INPUT: [-242202410, 399820236]
+EXPECTED: 157617826
+ACTUAL: 157617826
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.793259
+TEST: write_add
+STATUS: PASSED
+INPUT: [-540353148, -981937278]
+EXPECTED: -1522290426
+ACTUAL: -1522290426
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.803544
+TEST: write_add
+STATUS: PASSED
+INPUT: [445546270, -45014067]
+EXPECTED: 400532203
+ACTUAL: 400532203
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.825668
+TEST: write_add
+STATUS: PASSED
+INPUT: [-47308151, 681915146]
+EXPECTED: 634606995
+ACTUAL: 634606995
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.850989
+TEST: write_add
+STATUS: PASSED
+INPUT: [-762774570, -54300152]
+EXPECTED: -817074722
+ACTUAL: -817074722
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.872790
+TEST: write_add
+STATUS: PASSED
+INPUT: [-246525619, -735277402]
+EXPECTED: -981803021
+ACTUAL: -981803021
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.890386
+TEST: write_add
+STATUS: PASSED
+INPUT: [85606012, 236345845]
+EXPECTED: 321951857
+ACTUAL: 321951857
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.915796
+TEST: write_add
+STATUS: PASSED
+INPUT: [-993107919, -842442260]
+EXPECTED: -1835550179
+ACTUAL: -1835550179
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.930868
+TEST: write_add
+STATUS: PASSED
+INPUT: [891248050, -205406210]
+EXPECTED: 685841840
+ACTUAL: 685841840
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.948206
+TEST: write_add
+STATUS: PASSED
+INPUT: [655026557, 512824520]
+EXPECTED: 1167851077
+ACTUAL: 1167851077
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.969415
+TEST: write_add
+STATUS: PASSED
+INPUT: [-879651532, 135194474]
+EXPECTED: -744457058
+ACTUAL: -744457058
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:51.997552
+TEST: write_add
+STATUS: PASSED
+INPUT: [996100109, 862949202]
+EXPECTED: 1859049311
+ACTUAL: 1859049311
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.022227
+TEST: write_add
+STATUS: PASSED
+INPUT: [164538775, 966160210]
+EXPECTED: 1130698985
+ACTUAL: 1130698985
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.039044
+TEST: write_add
+STATUS: PASSED
+INPUT: [-272546701, 814377428]
+EXPECTED: 541830727
+ACTUAL: 541830727
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.060402
+TEST: write_add
+STATUS: PASSED
+INPUT: [313237424, -126704105]
+EXPECTED: 186533319
+ACTUAL: 186533319
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.086118
+TEST: write_add
+STATUS: PASSED
+INPUT: [428334068, 696089771]
+EXPECTED: 1124423839
+ACTUAL: 1124423839
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.108043
+TEST: write_add
+STATUS: PASSED
+INPUT: [76382880, -117473538]
+EXPECTED: -41090658
+ACTUAL: -41090658
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.134738
+TEST: write_add
+STATUS: PASSED
+INPUT: [428871851, -466743040]
+EXPECTED: -37871189
+ACTUAL: -37871189
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.148644
+TEST: write_add
+STATUS: PASSED
+INPUT: [2336923, 681952629]
+EXPECTED: 684289552
+ACTUAL: 684289552
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.164988
+TEST: write_add
+STATUS: PASSED
+INPUT: [-935568287, -185034124]
+EXPECTED: -1120602411
+ACTUAL: -1120602411
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.183330
+TEST: write_add
+STATUS: PASSED
+INPUT: [-364321894, -713440008]
+EXPECTED: -1077761902
+ACTUAL: -1077761902
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.200732
+TEST: write_add
+STATUS: PASSED
+INPUT: [-599991535, 604955433]
+EXPECTED: 4963898
+ACTUAL: 4963898
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.215272
+TEST: write_add
+STATUS: PASSED
+INPUT: [-875843449, -500164900]
+EXPECTED: -1376008349
+ACTUAL: -1376008349
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.227529
+TEST: write_add
+STATUS: PASSED
+INPUT: [-704243022, 94965877]
+EXPECTED: -609277145
+ACTUAL: -609277145
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.243811
+TEST: write_add
+STATUS: PASSED
+INPUT: [67062816, -647479347]
+EXPECTED: -580416531
+ACTUAL: -580416531
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.259923
+TEST: write_add
+STATUS: PASSED
+INPUT: [-509060665, 51309488]
+EXPECTED: -457751177
+ACTUAL: -457751177
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.272966
+TEST: write_add
+STATUS: PASSED
+INPUT: [-631809898, -643887854]
+EXPECTED: -1275697752
+ACTUAL: -1275697752
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.298022
+TEST: write_add
+STATUS: PASSED
+INPUT: [-612678177, -797692096]
+EXPECTED: -1410370273
+ACTUAL: -1410370273
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.313343
+TEST: write_add
+STATUS: PASSED
+INPUT: [-272053099, 494734863]
+EXPECTED: 222681764
+ACTUAL: 222681764
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.329493
+TEST: write_add
+STATUS: PASSED
+INPUT: [-607449433, -331159094]
+EXPECTED: -938608527
+ACTUAL: -938608527
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.350744
+TEST: write_add
+STATUS: PASSED
+INPUT: [333705823, 986970645]
+EXPECTED: 1320676468
+ACTUAL: 1320676468
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.370699
+TEST: write_add
+STATUS: PASSED
+INPUT: [56636382, -838533075]
+EXPECTED: -781896693
+ACTUAL: -781896693
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.372291
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-719141729 397222871',)
+EXPECTED: 157786008526340912
+ACTUAL: 157786008526340912
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.372464
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-733736486 134143313',)
+EXPECTED: 17994427688879483
+ACTUAL: 17994427688879483
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.372588
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('717795255 461622686',)
+EXPECTED: 213095504947649851
+ACTUAL: 213095504947649851
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.372682
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('529256933 877139377',)
+EXPECTED: 769373487213205062
+ACTUAL: 769373487213205062
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.372797
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-474325786 522711679',)
+EXPECTED: 273227498888673255
+ACTUAL: 273227498888673255
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.372870
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-147743741 -132686957',)
+EXPECTED: 17605828410176108
+ACTUAL: 17605828410176108
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.373217
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('563380664 -765010083',)
+EXPECTED: 585240427655047553
+ACTUAL: 585240427655047553
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.373557
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('14444104 360564198',)
+EXPECTED: 130006540893827308
+ACTUAL: 130006540893827308
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.373816
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-465514405 401532352',)
+EXPECTED: 161228229237137499
+ACTUAL: 161228229237137499
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.374065
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-816523722 888352037',)
+EXPECTED: 789169340825525647
+ACTUAL: 789169340825525647
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.374394
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-998741865 -834206786',)
+EXPECTED: 695900960809707931
+ACTUAL: 695900960809707931
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.374667
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('631783038 -311749740',)
+EXPECTED: 97187901021850638
+ACTUAL: 97187901021850638
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.374910
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-36706948 538105450',)
+EXPECTED: 289557475282995552
+ACTUAL: 289557475282995552
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.375146
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('436764310 979022794',)
+EXPECTED: 958485631608330746
+ACTUAL: 958485631608330746
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.375353
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-952440064 754449785',)
+EXPECTED: 569194477134106161
+ACTUAL: 569194477134106161
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.375573
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('140384689 -902470819',)
+EXPECTED: 814453579286915450
+ACTUAL: 814453579286915450
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.375792
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-998383654 -283780598',)
+EXPECTED: 80531426802853950
+ACTUAL: 80531426802853950
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.376055
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-930518775 -525079205',)
+EXPECTED: 275708170592913250
+ACTUAL: 275708170592913250
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.376378
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-247762389 228343191',)
+EXPECTED: 52140612628300092
+ACTUAL: 52140612628300092
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.378020
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('320742562 -914179965',)
+EXPECTED: 835725008728143787
+ACTUAL: 835725008728143787
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.378245
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('66214149 -437861125',)
+EXPECTED: 191722364852479774
+ACTUAL: 191722364852479774
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.378621
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-694086965 -891397674',)
+EXPECTED: 794589812518523311
+ACTUAL: 794589812518523311
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.378761
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('433306585 -814369784',)
+EXPECTED: 663198145525513241
+ACTUAL: 663198145525513241
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.378864
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('77366489 275156527',)
+EXPECTED: 75711114428068218
+ACTUAL: 75711114428068218
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.378962
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('160243776 304797072',)
+EXPECTED: 92901255260016960
+ACTUAL: 92901255260016960
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.379094
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-569045592 -549243638',)
+EXPECTED: 301668573314429452
+ACTUAL: 301668573314429452
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.379287
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('571480441 529411904',)
+EXPECTED: 280276964668385657
+ACTUAL: 280276964668385657
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.379392
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-710869840 683472880',)
+EXPECTED: 467135176984624560
+ACTUAL: 467135176984624560
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.379466
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('58956385 31175227',)
+EXPECTED: 971894837457914
+ACTUAL: 971894837457914
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.379549
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-111695214 803264974',)
+EXPECTED: 645234618343525462
+ACTUAL: 645234618343525462
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.379617
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('238757569 201111706',)
+EXPECTED: 40445918528988005
+ACTUAL: 40445918528988005
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.379728
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-35647021 900846764',)
+EXPECTED: 811524892173624675
+ACTUAL: 811524892173624675
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.379848
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('809180500 25199141',)
+EXPECTED: 634997516318381
+ACTUAL: 634997516318381
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.379941
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('356464601 -451086281',)
+EXPECTED: 203478833262875562
+ACTUAL: 203478833262875562
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.380010
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('959107918 281998592',)
+EXPECTED: 79523206849090382
+ACTUAL: 79523206849090382
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.380087
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-707139039 862325518',)
+EXPECTED: 743605298286829285
+ACTUAL: 743605298286829285
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.380164
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('60747816 631398466',)
+EXPECTED: 398664022927900972
+ACTUAL: 398664022927900972
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.380232
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('677326247 527162051',)
+EXPECTED: 277899828691852848
+ACTUAL: 277899828691852848
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.380297
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-308788284 168852620',)
+EXPECTED: 28511206972076116
+ACTUAL: 28511206972076116
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.380374
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-13861974 637611973',)
+EXPECTED: 406549028099090755
+ACTUAL: 406549028099090755
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.380459
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('324223894 513219532',)
+EXPECTED: 263394288350522918
+ACTUAL: 263394288350522918
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.380722
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('484266630 -717794687',)
+EXPECTED: 515229213169694599
+ACTUAL: 515229213169694599
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.380909
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-535843851 -354783990',)
+EXPECTED: 125871679024476249
+ACTUAL: 125871679024476249
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.381042
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('297996318 -893048608',)
+EXPECTED: 797535816548733982
+ACTUAL: 797535816548733982
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.381571
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-434951974 324798617',)
+EXPECTED: 105494141170160715
+ACTUAL: 105494141170160715
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.381792
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-559781402 -207118126',)
+EXPECTED: 42897917557970474
+ACTUAL: 42897917557970474
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.382052
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-460420268 -890763171',)
+EXPECTED: 793459026349554973
+ACTUAL: 793459026349554973
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.382342
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-595896307 846397109',)
+EXPECTED: 716388065527661574
+ACTUAL: 716388065527661574
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.382636
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('785930320 -208785323',)
+EXPECTED: 43591311886144649
+ACTUAL: 43591311886144649
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.382885
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-153941184 872747213',)
+EXPECTED: 761687697645326185
+ACTUAL: 761687697645326185
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.402612
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-864167171, 820782893]
+EXPECTED: 673684556577282278
+ACTUAL: 673684556577282278
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.432644
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [760600345, 918124504]
+EXPECTED: 842952605605846361
+ACTUAL: 842952605605846361
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.458052
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-343086216, -962019403]
+EXPECTED: 925481331405390193
+ACTUAL: 925481331405390193
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.477984
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-540860469, 931906555]
+EXPECTED: 868449826711107556
+ACTUAL: 868449826711107556
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.492974
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-977476991, -37281547]
+EXPECTED: 1389912769236218
+ACTUAL: 1389912769236218
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.504475
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [617168835, 971918680]
+EXPECTED: 944625921150111235
+ACTUAL: 944625921150111235
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.515552
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [383944726, -40253834]
+EXPECTED: 1620371535644282
+ACTUAL: 1620371535644282
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.531134
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-727458915, 272888954]
+EXPECTED: 74468380487755201
+ACTUAL: 74468380487755201
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.547459
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [446735143, 846867536]
+EXPECTED: 717184623977446439
+ACTUAL: 717184623977446439
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.563847
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-242882023, -683161925]
+EXPECTED: 466710215526823602
+ACTUAL: 466710215526823602
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.585568
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [640710712, 642864060]
+EXPECTED: 413274200280394312
+ACTUAL: 413274200280394312
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.601983
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-729470651, -836567448]
+EXPECTED: 699845094323762053
+ACTUAL: 699845094323762053
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.620951
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [889997423, -664863367]
+EXPECTED: 442043297668574112
+ACTUAL: 442043297668574112
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.634299
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-578959983, 73120280]
+EXPECTED: 5346574768318417
+ACTUAL: 5346574768318417
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.650782
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-328987481, 483415936]
+EXPECTED: 233690966849768615
+ACTUAL: 233690966849768615
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.669440
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [551117036, -981230749]
+EXPECTED: 962813783334218037
+ACTUAL: 962813783334218037
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.687266
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-468577794, -848489553]
+EXPECTED: 719934521081562015
+ACTUAL: 719934521081562015
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.706441
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [491297107, 915278379]
+EXPECTED: 837734511556164748
+ACTUAL: 837734511556164748
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.717189
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [963775887, 960214712]
+EXPECTED: 922012294105018831
+ACTUAL: 922012294105018831
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.735774
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-769890654, 989409904]
+EXPECTED: 978931957363398562
+ACTUAL: 978931957363398562
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.751907
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [890974392, 550912394]
+EXPECTED: 303504466753785628
+ACTUAL: 303504466753785628
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.759344
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-51283532, 71719398]
+EXPECTED: 5143671998198872
+ACTUAL: 5143671998198872
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.771600
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-288219580, 813613169]
+EXPECTED: 661966388482002981
+ACTUAL: 661966388482002981
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.781510
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [618464677, 595043111]
+EXPECTED: 354076304567022998
+ACTUAL: 354076304567022998
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.794369
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [720706213, -786705296]
+EXPECTED: 618905223475153829
+ACTUAL: 618905223475153829
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.810830
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [187824597, 562791444]
+EXPECTED: 316734209627429733
+ACTUAL: 316734209627429733
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.826478
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-447444263, -685044125]
+EXPECTED: 469285452749571362
+ACTUAL: 469285452749571362
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.840466
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-456782849, -963685416]
+EXPECTED: 928689580554310207
+ACTUAL: 928689580554310207
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.854413
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [781509010, -125433470]
+EXPECTED: 15733556177749910
+ACTUAL: 15733556177749910
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.868953
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [448704536, -561893560]
+EXPECTED: 315724373218178136
+ACTUAL: 315724373218178136
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.885135
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-820134330, 343988244]
+EXPECTED: 118327911190069206
+ACTUAL: 118327911190069206
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.906233
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-658412112, -518918795]
+EXPECTED: 269276715145839913
+ACTUAL: 269276715145839913
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.921003
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-588843764, -366620354]
+EXPECTED: 134410483378241552
+ACTUAL: 134410483378241552
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.931800
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-663690434, 570783414]
+EXPECTED: 325793705033804962
+ACTUAL: 325793705033804962
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.945763
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [101333306, -453254067]
+EXPECTED: 205439249353373795
+ACTUAL: 205439249353373795
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.959591
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [221197900, -443173879]
+EXPECTED: 196403087249104541
+ACTUAL: 196403087249104541
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.972364
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [498044226, -913942212]
+EXPECTED: 835290367373497170
+ACTUAL: 835290367373497170
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:52.987017
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [568592333, -652025183]
+EXPECTED: 425136839834775822
+ACTUAL: 425136839834775822
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.000746
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [772138362, 295470110]
+EXPECTED: 87302586675550462
+ACTUAL: 87302586675550462
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.015642
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-371599971, -703810575]
+EXPECTED: 495349325110230654
+ACTUAL: 495349325110230654
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.028311
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [331579265, 783027451]
+EXPECTED: 613131989351136666
+ACTUAL: 613131989351136666
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.046744
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [757198125, -435926612]
+EXPECTED: 190032011806996669
+ACTUAL: 190032011806996669
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.065695
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-526527021, 345381707]
+EXPECTED: 119288523003706828
+ACTUAL: 119288523003706828
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.081278
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [794349157, 677787768]
+EXPECTED: 459396259244770981
+ACTUAL: 459396259244770981
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.098374
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-283930373, -73551013]
+EXPECTED: 5409751229395796
+ACTUAL: 5409751229395796
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.113473
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [-520110257, -857134584]
+EXPECTED: 734679694568742799
+ACTUAL: 734679694568742799
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.133259
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [768908755, 711407165]
+EXPECTED: 506100155182245980
+ACTUAL: 506100155182245980
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.149119
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [84510807, -627521911]
+EXPECTED: 393783748869602728
+ACTUAL: 393783748869602728
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.166434
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [44662707, -442307817]
+EXPECTED: 195636205023968196
+ACTUAL: 195636205023968196
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.183181
+TEST: write_add_squared
+STATUS: PASSED
+INPUT: [404874990, -548445392]
+EXPECTED: 300792348410908654
+ACTUAL: 300792348410908654
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.195037
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [42]
+EXPECTED: 267914296
+ACTUAL: 267914296
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.195860
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [8]
+EXPECTED: 21
+ACTUAL: 21
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.197186
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [2]
+EXPECTED: 1
+ACTUAL: 1
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.198306
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [6]
+EXPECTED: 8
+ACTUAL: 8
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.210124
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [29]
+EXPECTED: 514229
+ACTUAL: 514229
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.214384
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [27]
+EXPECTED: 196418
+ACTUAL: 196418
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.215852
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [36]
+EXPECTED: 14930352
+ACTUAL: 14930352
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.223171
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [37]
+EXPECTED: 24157817
+ACTUAL: 24157817
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.225471
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [27]
+EXPECTED: 196418
+ACTUAL: 196418
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.225880
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [6]
+EXPECTED: 8
+ACTUAL: 8
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.239989
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [33]
+EXPECTED: 3524578
+ACTUAL: 3524578
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.240553
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [15]
+EXPECTED: 610
+ACTUAL: 610
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.241203
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [8]
+EXPECTED: 21
+ACTUAL: 21
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.243158
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [31]
+EXPECTED: 1346269
+ACTUAL: 1346269
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.244647
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [41]
+EXPECTED: 165580141
+ACTUAL: 165580141
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.245485
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [44]
+EXPECTED: 701408733
+ACTUAL: 701408733
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.245863
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [6]
+EXPECTED: 8
+ACTUAL: 8
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.246225
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [14]
+EXPECTED: 377
+ACTUAL: 377
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.246603
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [16]
+EXPECTED: 987
+ACTUAL: 987
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.247827
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [23]
+EXPECTED: 28657
+ACTUAL: 28657
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.249489
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: [34]
+EXPECTED: 7
+ACTUAL: 7
+EXECUTION TIME: 0.000442 s
+TIME LIMIT: True
+MEMORY: 137.36 KB
+MEMORY LIMIT: True
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.250077
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: [20]
+EXPECTED: 5
+ACTUAL: 5
+EXECUTION TIME: 0.000339 s
+TIME LIMIT: True
+MEMORY: 137.33 KB
+MEMORY LIMIT: True
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.250510
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: [30]
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: 0.000220 s
+TIME LIMIT: True
+MEMORY: 137.39 KB
+MEMORY LIMIT: True
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.250907
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: [17]
+EXPECTED: 7
+ACTUAL: 7
+EXECUTION TIME: 0.000208 s
+TIME LIMIT: True
+MEMORY: 137.33 KB
+MEMORY LIMIT: True
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.251345
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: [21]
+EXPECTED: 6
+ACTUAL: 6
+EXECUTION TIME: 0.000256 s
+TIME LIMIT: True
+MEMORY: 137.33 KB
+MEMORY LIMIT: True
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.252262
+TEST: add
+STATUS: PASSED
+INPUT: ('-1000000000 -1000000000',)
+EXPECTED: -2000000000
+ACTUAL: -2000000000
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.253037
+TEST: add
+STATUS: PASSED
+INPUT: ('1000000000 1000000000',)
+EXPECTED: 2000000000
+ACTUAL: 2000000000
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.253880
+TEST: add
+STATUS: PASSED
+INPUT: ('-1000000000 1000000000',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.254783
+TEST: add
+STATUS: PASSED
+INPUT: ('0 0',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.255829
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('-1000000000 -1000000000',)
+EXPECTED: 999999999000000000
+ACTUAL: 999999999000000000
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.256779
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('1000000000 1000000000',)
+EXPECTED: 1000000001000000000
+ACTUAL: 1000000001000000000
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.257878
+TEST: add_squared
+STATUS: PASSED
+INPUT: ('0 0',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.259229
+TEST: fibonacci
+STATUS: PASSED
+INPUT: ('0',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.261756
+TEST: fibonacci
+STATUS: PASSED
+INPUT: ('1',)
+EXPECTED: 1
+ACTUAL: 1
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.263832
+TEST: fibonacci
+STATUS: PASSED
+INPUT: ('2',)
+EXPECTED: 1
+ACTUAL: 1
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.264818
+TEST: fibonacci
+STATUS: PASSED
+INPUT: ('45',)
+EXPECTED: 1134903170
+ACTUAL: 1134903170
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.266303
+TEST: find_last_digit
+STATUS: PASSED
+INPUT: ('0',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.268158
+TEST: find_last_digit
+STATUS: PASSED
+INPUT: ('1',)
+EXPECTED: 1
+ACTUAL: 1
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.270635
+TEST: find_last_digit
+STATUS: PASSED
+INPUT: ('45',)
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.272898
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [0]
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.276217
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [1]
+EXPECTED: 1
+ACTUAL: 1
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.282861
+TEST: write_fibonacci
+STATUS: PASSED
+INPUT: [45]
+EXPECTED: 1134903170
+ACTUAL: 1134903170
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.285188
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: [0]
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
+============================================================
+TIME: 2026-09-20 20:51:53.288322
+TEST: write_find_last_digit
+STATUS: PASSED
+INPUT: [45]
+EXPECTED: 0
+ACTUAL: 0
+EXECUTION TIME: not measured
+MEMORY: not measured
+============================================================
+
